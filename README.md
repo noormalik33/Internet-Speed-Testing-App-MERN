@@ -1,7 +1,7 @@
-# Internet-Speed-Testing-App-MERN
-MERN PROJECT: Showing Internet speed , IP addrees and current location
-
 # 🌐 Internet Speed Testing App (MERN)
+
+
+MERN PROJECT: Showing Internet speed , IP addrees and current location
 
 A full-stack **MERN** (MongoDB, Express.js, React.js, Node.js) application that allows users to test their internet download/upload speed, view their **public IP address**, and detect their **current location** using browser and network APIs.
 
@@ -69,5 +69,9 @@ npm start
  **Ghulam Qadir**  
   📍 Rawalpindi, Pakistan  
   📧 [LinkedIn](https://www.linkedin.com/in/ghulam-qadir-07a982365/)
+
+
+
+💡 If you like this project, don’t forget to star ⭐ it on GitHub!
 
 
