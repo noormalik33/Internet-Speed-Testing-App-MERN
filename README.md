@@ -43,7 +43,6 @@ A full-stack **MERN** (MongoDB, Express.js, React.js, Node.js) application that 
 
 ## 📦 Installation & Usage
 
-```bash
 # 1. Clone the repository
 https://github.com/noormalik33/Internet-Speed-Testing-App-MERN.git
 cd Internet-Speed-Testing-App-MERN
@@ -60,5 +59,15 @@ npm start
 
 
 
+## 👩‍💻 Team Members
+
+**Noor Malik**  
+📍 Islamabad, Pakistan  
+📧 noormalik56500@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/noormalik56500/)
+
+ **Ghulam Qadir**  
+  📍 Rawalpindi, Pakistan  
+  📧 [LinkedIn](https://www.linkedin.com/in/ghulam-qadir-07a982365/)
 
 
